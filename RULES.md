@@ -7,6 +7,10 @@
 - The category, the language and the topic name must be spelled correctly, that is, it must match the content.
 - The content must be written according to markdown rules, not stolen and copied.
 - If this rule does not fit, the user should be warned.
+- Seller Must provide a shipping details along with tracking ID.
+- Buyer steem will go to letsteem account and it will be released to seller after getting a tracking details from the seller.
+- If Buyer send money direct to seller @letsteem will be not responsible for any loss.
+- Seller should not set any higher price for the product who is not worth that price.
 - The user edits the content and you approve.
 - Content topic must be English
 
@@ -14,7 +18,7 @@
 
 #### If you accept these rules, you must send a commit to this file as write
 ```
-I understand and accept to all the rules <community_name> | < @community_manager_name_steem_account_name >
+I understand and accept to all the rules <letsteem> | < @letsteem >
 ```
 
 ---------
